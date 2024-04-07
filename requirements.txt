@@ -9,3 +9,5 @@ langchain==0.1.14
 pytesseract==0.3.10
 
 pypdfium2==4.27.0
+
+python-dotenv==1.0.1
